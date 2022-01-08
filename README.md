@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://en.wikipedia.org/wiki/Open_source"><b><i>Open Source</i></b></a></div>
 
-<div align="center"><img src="https://idtcs.com/wp-content/uploads/2014/04/content_1.jpg"></div>
+<div align="center"><img src="https://idtcs.com/wp-content/uploads/2014/04/content_1.jpg" width="300px"></div>
 
 > What is Open Source ?
 
